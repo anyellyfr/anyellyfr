@@ -2,7 +2,7 @@
 <h3 align="center">QA Engineer | Manual & Automation | Python • JavaScript • Postman • Selenium</h3>
 
 <p align="center">
-  <a href="(https://www.linkedin.com/in/anyelly-natalia-florez/)"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/anyelly-natalia-florez/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:nataliaflorezromero@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=maildotru&logoColor=white"></a>
   <img src="https://img.shields.io/badge/QA%20Engineer-Manual%20%7C%20Automation-purple?style=for-the-badge">
 </p>
