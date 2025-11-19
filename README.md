@@ -96,7 +96,7 @@ I enjoy:
 
 📧 **Email:** nataliaflorezromero@gmail.com  
 📍 **Location:** Bogotá, Colombia  
-🔗 **LinkedIn:** https://www.linkedin.com/in/TU-LINKEDIN-AQUÍ  
+🔗 **LinkedIn:** https://www.linkedin.com/in/anyelly-natalia-florez/
 
 ---
 
