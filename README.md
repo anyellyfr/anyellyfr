@@ -52,7 +52,7 @@ I enjoy:
 ✔ Requirement analysis + test documentation  
 ✔ SQL queries for backend data validation  
 📌 *Tools:* Jira, SQL, DevTools, Figma  
-🔗 *Repo:* (Add GitHub link here)
+🔗 *Repo:* (https://github.com/anyellyfr/urban-routes-web-testing)
 
 ---
 
@@ -61,7 +61,7 @@ I enjoy:
 ✔ Automated test scripts with Python + Pytest + Git  
 ✔ Backend endpoint coverage & reporting defects  
 📌 *Tools:* Postman, Pytest, Git  
-🔗 *Repo:* (Add GitHub link here)
+🔗 *Repo:* (https://github.com/anyellyfr/URBAN-GROCERS-API-Automation-Project)
 
 ---
 
@@ -70,7 +70,7 @@ I enjoy:
 ✔ Testing with Android Studio emulator  
 ✔ User-flow validation (order → payment → delivery)  
 📌 *Tools:* Android Studio, Jira  
-🔗 *Repo:* (Add GitHub link here)
+🔗 *Repo:* (https://github.com/anyellyfr/URBAN-LUNCH-Mobile-Testing)
 
 ---
 
@@ -79,7 +79,7 @@ I enjoy:
 ✔ Manual + automated testing  
 ✔ Full defect documentation and reporting  
 📌 *Tools:* Postman, SQL, Selenium / Pytest  
-🔗 *Repo:* (Add GitHub link here)
+🔗 *Repo:* (https://github.com/anyellyfr/SCOOTER-Full-End-to-End-Testing)
 
 ---
 
